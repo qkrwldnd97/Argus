@@ -1,2 +1,5 @@
-# CS30700_Project
-Purdue University Fall 2022 CS30700 Project, Team 19
+# Argus_Project
+
+With today’s increasing degradation to our planet earth, it is becoming increasingly important to start addressing our environmental issues and raise awareness about our planet’s health. One main hindrance with environmental issues is the lack of urgency by the common people, and one great idea is to help provide the general public with a monitoring application. 
+While there are many environmental monitoring apps available online, their user interface is often cluttered and slow in performance, rendering their functions moot to the general public. Most of the data being presented is also either past data or readings at the moment the user is checking. In addition, in order to find readings for different environmental activities, users have to search for different websites or monitoring apps online to find the data they are looking for.
+To this end, we decided to create Argus, an all-in-one environmental monitoring app which is designed to be minimal, intuitive to use and fast to use. With Argus, users will be informed of the climate activity today and in the future. It displays environmental activities such as current and future values of temperatures, rising sea levels, and greenhouse gas emissions all in one place. It will also monitor and predict natural disaster activity, such as earthquakes.
